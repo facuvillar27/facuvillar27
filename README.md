@@ -1,4 +1,4 @@
-Hi 👋 I am Facundo Villar
+![png-transparent-java-platform-standard-edition-java-development-kit-computer-software-java-runtime-environment-coffee-jar-text-logo-fruit-nut](https://github.com/user-attachments/assets/3f0b43e4-e0e2-4cc2-aa4d-1735b5d01692)Hi 👋 I am Facundo Villar
 ================================ 
 
 Junior Software Developer
@@ -24,12 +24,12 @@ My background in civil engineering has provided me with a solid foundation in da
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a8e9243d-50d0-4a2a-8d97-faead6c68994" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a8e9243d-50d0-4a2a-8d97-faead6c68994" width="45" height="45" alt="MySQL" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/cc96a782-5ae2-4bb7-b920-72c73de333a2" width="45" height="36" alt="AWS" /></a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/71baa976-6c6d-4262-81a1-8ff99eb121b2" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b118e6f9-4b26-49a1-b3a5-d13800f58480" width="36" height="36" alt="Python" /></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8cfef1b2-b431-47b6-b06c-ae685a2c59ae" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/eb4adf95-2df8-4c13-aeef-f3897beaea90" width="36" height="36" alt="Python" /></a>
 <a href="https://gitlab.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/53749a48-4bf0-4f5a-ae46-b17b0d9dfed2" width="36" height="36" alt="GitLab" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/538c41de-a0b7-4e88-9032-6b1f6de33fda" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/538c41de-a0b7-4e88-9032-6b1f6de33fda" width="45" height="36" alt="MongoDB" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/f35a4a15-c868-44ee-bba7-62590e01efc4" width="45" height="36" alt="Docker" /></a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d25caafb-b044-4e23-9099-6e89db15934a" width="45" height="36" alt="Terraform" /></a>
 </p>
