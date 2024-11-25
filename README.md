@@ -26,8 +26,8 @@ My background in civil engineering has provided me with a solid foundation in da
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a8e9243d-50d0-4a2a-8d97-faead6c68994" width="45" height="40" alt="MySQL" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/cc96a782-5ae2-4bb7-b920-72c73de333a2" width="45" height="36" alt="AWS" /></a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/774f2e62-9e54-478d-a563-adf58484877d" width="45" height="40" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8bdf6add-bbf0-4891-9107-677a191a00a3" width="45" height="40" alt="Python" /></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/774f2e62-9e54-478d-a563-adf58484877d" width="30" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9438d876-055c-4f43-bb02-d4e9357bf8863" width="45" height="40" alt="Python" /></a>
 <a href="https://gitlab.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/53749a48-4bf0-4f5a-ae46-b17b0d9dfed2" width="36" height="36" alt="GitLab" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/538c41de-a0b7-4e88-9032-6b1f6de33fda" width="45" height="36" alt="MongoDB" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/f35a4a15-c868-44ee-bba7-62590e01efc4" width="45" height="36" alt="Docker" /></a>
