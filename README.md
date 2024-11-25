@@ -25,8 +25,13 @@ My background in civil engineering has provided me with a solid foundation in da
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/0511d9e0-6b85-4e18-8bf0-3bd9a5656e44" width="36" height="36" alt="MySQL" /></a>
-![png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail](https://github.com/user-attachments/assets/0511d9e0-6b85-4e18-8bf0-3bd9a5656e44)
-
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/cc96a782-5ae2-4bb7-b920-72c73de333a2" width="36" height="36" alt="AWS" /></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/24b48ffa-a704-4dec-ba83-5205059fb5e1" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/66831b8a-79a1-476d-bb22-d04bc50ec71d" width="36" height="36" alt="Python" /></a>
+<a href="https://gitlab.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/53749a48-4bf0-4f5a-ae46-b17b0d9dfed2" width="36" height="36" alt="GitLab" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4130c3c4-c938-4cbc-9b2c-cc1c82629cce" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/f35a4a15-c868-44ee-bba7-62590e01efc4" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d25caafb-b044-4e23-9099-6e89db15934a" width="36" height="36" alt="Terraform" /></a>
 </p>
 
 ## Socials:
